@@ -13,8 +13,6 @@ Works asynchronously without using threads (so it's always thread-safe and stabl
 
 If you find the above too complicated, check the example in `res://example/audio_preview.tscn`.
 
-![](docs/example.png)
-
 ----
 
 ### Signals
